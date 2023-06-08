@@ -1,0 +1,16 @@
+{
+    "Configurations": [
+        {
+            "SourceDirectory": "./src/frontend",
+            "OutputFilePath": "./src/frontend_all.js"
+        },
+        {
+            "SourceDirectory": "./src/frontend",
+            "OutputFilePath": "./src/frontend_all_bis.js"
+        },
+        {
+            "SourceDirectory": "./src/backend",
+            "OutputFilePath": "./src/backend_all.js"
+        }
+    ]
+}
